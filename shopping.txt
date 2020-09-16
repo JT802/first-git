@@ -1,6 +1,4 @@
 milk
 eggs
 ice cream
-salad
-kale
 seltzer
