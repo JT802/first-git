@@ -2,3 +2,5 @@ milk
 eggs
 ice cream
 seltzer
+brick cheddar cheese
+chocolate therapy bites
